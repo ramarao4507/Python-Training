@@ -9,3 +9,6 @@ length = len(lists)
 print "Length of given list is %d:"%length
 avg = float(listsum)/float(length)
 print "avg of given list is %f :"%avg
+
+
+
