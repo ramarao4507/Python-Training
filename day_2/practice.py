@@ -1,5 +1,5 @@
 #Dictonarys
-mydict = {'name':'gopikrishna','company':'ASM Technologies','role':'SE','age':22}
+mydict = {'name':'ram','company':'ASM Technologies','role':'SE','age':24}
 
 print mydict.items()
 print mydict
