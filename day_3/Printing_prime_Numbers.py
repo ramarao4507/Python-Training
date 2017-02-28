@@ -14,3 +14,5 @@ for i in range(a,b +1):
            count+=1
            print(i)
 print "Total numr of Primes are :",count
+
+
